@@ -11,7 +11,7 @@ const Showcase: React.FC = () => {
       <Row className="g-4 mt-4 align-items-center">
         <Col xs={12} md={6} className="d-flex flex-column position-relative" style={{ zIndex: 1 }}>
           <StyleTypography variant="h1" style={{ fontWeight: "bold" }}>
-            Dogg money is the people's money
+            Dog money is the people's money
           </StyleTypography>
         </Col>
         <StyledCol xs={12} md={6} className="d-flex justify-content-center align-items-center">
